@@ -240,4 +240,4 @@ This repository serves as the official landing page for Google Apps Sync. The so
 **Get the most recent version of Google Apps Sync today!**
 
 ---
-**Last updated:** 2026-10-29 10:28:13 UTC
+**Last updated:** 2026-10-29 17:07:08 UTC
